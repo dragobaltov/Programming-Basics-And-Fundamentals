@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountOfCapitalLettersInArray", "CountOfCapitalLettersInArray\CountOfCapitalLettersInArray.csproj", "{F552721A-F66B-419B-8763-130CDC98C435}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F552721A-F66B-419B-8763-130CDC98C435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F552721A-F66B-419B-8763-130CDC98C435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F552721A-F66B-419B-8763-130CDC98C435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F552721A-F66B-419B-8763-130CDC98C435}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitsWithWords", "DigitsWithWords\DigitsWithWords.csproj", "{B11B26D1-93B1-49E8-94AA-74F9728BA01D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B11B26D1-93B1-49E8-94AA-74F9728BA01D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11B26D1-93B1-49E8-94AA-74F9728BA01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B11B26D1-93B1-49E8-94AA-74F9728BA01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B11B26D1-93B1-49E8-94AA-74F9728BA01D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
